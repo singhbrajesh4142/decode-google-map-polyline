@@ -7,7 +7,7 @@
     "start": "node src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "harsh vardhan singh",
+  "author": "Brajesh Singh",
   "license": "ISC",
   "dependencies": {
     "decode-google-map-polyline": "^1.0.1",
